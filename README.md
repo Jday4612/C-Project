@@ -1,1 +1,2 @@
-# C-Project
+# 2021 C++ Project
+Snake Game
